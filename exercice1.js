@@ -1,5 +1,3 @@
 let message ="Bonjour"
+alert(message)
 
-function bonjour() {
-    alert(message)
-}
